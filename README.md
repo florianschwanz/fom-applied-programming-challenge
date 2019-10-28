@@ -2,6 +2,8 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/florianschwanz/fom-applied-programming-challenge/master?filepath=notebooks%2Fchallenge-1.ipynb)
 
+![title](img/photo-1533788179956-82e8a027c962.jpg)
+
 This project covers the first of two coding challenges for FOM Berlin winter semester 2019 course
 _Applied Programming_.
 
