@@ -3,3 +3,4 @@ desktop.ini
 **/*.stash
 **/*checkpoint.ipynb
 data/mnist_data
+build/
