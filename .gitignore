@@ -4,3 +4,4 @@ desktop.ini
 **/*checkpoint.ipynb
 data/mnist_data
 build/*
+/venv/
