@@ -59,13 +59,13 @@ def download_sprites_151():
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/florianschwanz/fom-applied-programming-challenge/blob/master/notebooks/challenge-2-pokemon-sprites-fused.ipynb)
 
-The GAN contained in the [Jupyter notebook](./notebooks/challenge-2-pokemon-sprites.ipynb) creates new images based
- on 151 pixelated Pokemon sprites + fused versions resulting in 22801 images in total.
+The GAN contained in the [Jupyter notebook](./notebooks/challenge-2-pokemon-sprites-fused.ipynb) creates new images
+ based on 151 pixelated Pokemon sprites + fused versions resulting in 22801 images in total.
  
 ### Data
 
-* Raw data for this GAN can be found in [./data/pokemon-sprites-fused/raw](./data/pokemon-sprites-fused/raw) or
- downloaded using the following functions which are contained in the notebook but commented.
+* Raw data for this GAN (partially) can be found in [./data/pokemon-sprites-fused/raw](./data/pokemon-sprites-fused/raw
+) or downloaded using the following functions which are contained in the notebook but commented.
  
  ```python
 import urllib.request
